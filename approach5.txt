@@ -18,3 +18,9 @@ Top 15 Automation Testing Tools List
 13. Subject7
 14. Ranorex Studio
 15. QAWolf
+
+4 Best Practices for Autotests Implementation
+- Choosing the right tools
+- The lifecycle of autotests
+- Main principles of autotest development
+- Script requirements
