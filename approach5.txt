@@ -24,3 +24,5 @@ Top 15 Automation Testing Tools List
 - The lifecycle of autotests
 - Main principles of autotest development
 - Script requirements
+
+26.05.2023
